@@ -1,41 +1,41 @@
 [
 	{
-		"file": "D:\\Documents\\UnrealProjects\\LearningKit\\Source\\LearningKit\\LearningKit.Build.cs",
+		"file": "D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\Source\\LearningKit\\LearningKit.Build.cs",
 		"arguments": [
 			"D:\\Softwares\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Documents\\UnrealProjects\\LearningKit\\.vscode\\compileCommands_LearningKit\\LearningKit.249.rsp"
+			"@D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\.vscode\\compileCommands_LearningKit\\LearningKit.249.rsp"
 		],
 		"directory": "D:\\Softwares\\UnrealEngine\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Documents\\UnrealProjects\\LearningKit\\Source\\LearningKit\\LearningKit.cpp",
+		"file": "D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\Source\\LearningKit\\LearningKit.cpp",
 		"arguments": [
 			"D:\\Softwares\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Documents\\UnrealProjects\\LearningKit\\.vscode\\compileCommands_LearningKit\\LearningKit.249.rsp"
+			"@D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\.vscode\\compileCommands_LearningKit\\LearningKit.249.rsp"
 		],
 		"directory": "D:\\Softwares\\UnrealEngine\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Documents\\UnrealProjects\\LearningKit\\Source\\LearningKit\\LearningKit.h",
+		"file": "D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\Source\\LearningKit\\LearningKit.h",
 		"arguments": [
 			"D:\\Softwares\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Documents\\UnrealProjects\\LearningKit\\.vscode\\compileCommands_LearningKit\\LearningKit.249.rsp"
+			"@D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\.vscode\\compileCommands_LearningKit\\LearningKit.249.rsp"
 		],
 		"directory": "D:\\Softwares\\UnrealEngine\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Documents\\UnrealProjects\\LearningKit\\Source\\LearningKit\\MovingPlatform.cpp",
+		"file": "D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\Source\\LearningKit\\MovingPlatform.cpp",
 		"arguments": [
 			"D:\\Softwares\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Documents\\UnrealProjects\\LearningKit\\.vscode\\compileCommands_LearningKit\\LearningKit.249.rsp"
+			"@D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\.vscode\\compileCommands_LearningKit\\LearningKit.249.rsp"
 		],
 		"directory": "D:\\Softwares\\UnrealEngine\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Documents\\UnrealProjects\\LearningKit\\Source\\LearningKit\\MovingPlatform.h",
+		"file": "D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\Source\\LearningKit\\MovingPlatform.h",
 		"arguments": [
 			"D:\\Softwares\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Documents\\UnrealProjects\\LearningKit\\.vscode\\compileCommands_LearningKit\\LearningKit.249.rsp"
+			"@D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\.vscode\\compileCommands_LearningKit\\LearningKit.249.rsp"
 		],
 		"directory": "D:\\Softwares\\UnrealEngine\\UE_5.1\\Engine\\Source"
 	}

@@ -6,7 +6,7 @@
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Documents\\UnrealProjects\\LearningKit\\.vscode\\compileCommands_LearningKit.json"
+            "compileCommands": "D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\.vscode\\compileCommands_LearningKit.json"
         },
         {
             "name": "Win32",
@@ -14,7 +14,7 @@
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "D:\\Documents\\UnrealProjects\\LearningKit\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "D:\\Documents\\UnrealProjects\\LearningKit\\LearnUE\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4

@@ -1,5 +1,5 @@
 /FI "D:\Softwares\UnrealEngine\UE_5.1\Engine\Intermediate\Build\Win64\UnrealEditor\Development\EditorSubsystem\Definitions.EditorSubsystem.h" 
-/FI "D:\Documents\UnrealProjects\LearningKit\Intermediate\Build\Win64\LearningKitEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h" 
+/FI "D:\Documents\UnrealProjects\LearningKit\LearnUE\Intermediate\Build\Win64\LearningKitEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h" 
 /I "D:\Softwares\UnrealEngine\UE_5.1\Engine\Source" 
 /I "D:\Softwares\UnrealEngine\UE_5.1\Engine\Source\Editor\EditorSubsystem\Private" 
 /I "D:\Softwares\UnrealEngine\UE_5.1\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Core\UHT" 
